@@ -1,0 +1,81 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769054911.081663,
+    "completed_at": 1769054912.246985,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057567.825224,
+    "completed_at": 1769057570.348956,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057595.472612,
+    "completed_at": 1769057598.035579,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057617.481605,
+    "completed_at": 1769057620.040145,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057797.605116,
+    "completed_at": 1769057798.777546,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769053937.25375,
+    "completed_at": 1769053938.415314,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769054543.655435,
+    "completed_at": 1769054544.843253,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769052788.486284,
+    "completed_at": 1769052789.634495,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769052942.768677,
+    "completed_at": 1769052943.916268,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
